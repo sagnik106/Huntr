@@ -1,0 +1,30 @@
+RIGHT JOYSTICK:
+
+L-R (Channel 1)
+(1363 - 1530) - (1550 - 1750)
+
+U-D (Channel 2)
+(1305 - 1470) - (1480 - 1636)
+
+
+LIGHT JOYSTICK:
+
+L-R (Channel 4)
+(1735 - 1570) - (1530 - 1365)
+
+U-D (Channel 3)
+(1875 - 1565) - (1515 - 1220)
+
+
+LEFT KNOB: (Channel 6)
+
+right limit - 2010
+left limit - 996
+mid - 1503
+
+
+RIGHT KNOB: (Channel 5)
+
+right limit - 2010
+left limit - 996
+mid - 1503
